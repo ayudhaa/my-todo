@@ -29,6 +29,7 @@
     "gh-pages": "^6.3.0",
     "globals": "^16.4.0",
     "postcss": "^8.5.6",
+    "react-scripts": "^5.0.1",
     "tailwindcss": "^3.4.13",
     "vite": "^7.1.7"
   }
